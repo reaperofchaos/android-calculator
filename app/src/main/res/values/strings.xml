@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="txtVariable1Label">1st number</string>
+    <string name="txtVariable2Label">2nd number</string>
+    <string name="addLabel">+</string>
+    <string name="subtractLabel">-</string>
+    <string name="multiplyLabel">X</string>
+    <string name="divideLabel">/</string>
+    <string name="defaultAnswer">answer</string>
+</resources>
